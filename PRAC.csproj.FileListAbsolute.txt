@@ -1,0 +1,11 @@
+C:\Users\huynh\Desktop\PRAC\PRAC\bin\Debug\QLNV.mdf
+C:\Users\huynh\Desktop\PRAC\PRAC\bin\Debug\QLNV_log.ldf
+C:\Users\huynh\Desktop\PRAC\PRAC\bin\Debug\PRAC.exe
+C:\Users\huynh\Desktop\PRAC\PRAC\bin\Debug\PRAC.pdb
+C:\Users\huynh\Desktop\PRAC\PRAC\obj\x86\Debug\PRAC.Form1.resources
+C:\Users\huynh\Desktop\PRAC\PRAC\obj\x86\Debug\PRAC.Properties.Resources.resources
+C:\Users\huynh\Desktop\PRAC\PRAC\obj\x86\Debug\PRAC.csproj.GenerateResource.Cache
+C:\Users\huynh\Desktop\PRAC\PRAC\obj\x86\Debug\PRAC.exe
+C:\Users\huynh\Desktop\PRAC\PRAC\obj\x86\Debug\PRAC.pdb
+C:\Users\huynh\Desktop\PRAC\PRAC\obj\x86\Debug\PRAC.Form2.resources
+C:\Users\huynh\Desktop\PRAC\PRAC\obj\x86\Debug\PRAC.csprojResolveAssemblyReference.cache

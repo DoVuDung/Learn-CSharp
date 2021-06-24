@@ -1,0 +1,12 @@
+C:\Users\huynh\Desktop\MID\MID\bin\Debug\QLSV.mdf
+C:\Users\huynh\Desktop\MID\MID\bin\Debug\QLSV_log.ldf
+C:\Users\huynh\Desktop\MID\MID\bin\Debug\MID.exe
+C:\Users\huynh\Desktop\MID\MID\bin\Debug\MID.pdb
+C:\Users\huynh\Desktop\MID\MID\obj\x86\Debug\MID.frmKhoiLop.resources
+C:\Users\huynh\Desktop\MID\MID\obj\x86\Debug\MID.frmMain.resources
+C:\Users\huynh\Desktop\MID\MID\obj\x86\Debug\MID.Properties.Resources.resources
+C:\Users\huynh\Desktop\MID\MID\obj\x86\Debug\MID.csproj.GenerateResource.Cache
+C:\Users\huynh\Desktop\MID\MID\obj\x86\Debug\MID.exe
+C:\Users\huynh\Desktop\MID\MID\obj\x86\Debug\MID.pdb
+C:\Users\huynh\Desktop\MID\MID\obj\x86\Debug\MID.frmSinhVien.resources
+C:\Users\huynh\Desktop\MID\MID\obj\x86\Debug\MID.csprojResolveAssemblyReference.cache
